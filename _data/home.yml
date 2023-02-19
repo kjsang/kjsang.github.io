@@ -15,32 +15,28 @@ project_entries:
 
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+  - title: Academic article
+    url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002878165
+    desc: 공직자의 이해충돌방지를 위한 정책결정과정 분석 - 텍스트마이닝을 활용한 다중흐름모형의 적용
     highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Academic article
+    url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002831212
+    desc: 정책의 연속과 변동 - 전국민 재난지원금 아이디어와 채택요인 분석
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: Academic article
+    url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002792547
+    desc: 플랫폼 기업의 구조적 권력과 규제정책변동 - 쿠팡(Coupang) 사례를 중심으로
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Jusang's Naver Blog
+    url: https://blog.naver.com/public-policy
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: instagram
+    url: https://instagram.com/jusangs
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/kjsang
 
   - title: feed
     url: feed.xml
