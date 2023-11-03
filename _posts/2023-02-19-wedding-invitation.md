@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Abhinav Saxena
+author: Jusang Kim
 tags: [overview, moonwalk]
 ---
 
