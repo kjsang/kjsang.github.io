@@ -9,11 +9,9 @@ navbar_entries:
     url: https://github.com/kjsang
 
 project_entries:
-  - title: Invitation
-    url: https://jusangkim.com/wedding-card
-    desc: 당신을 초대합니다⭐️   
-
-
+  - title: CV
+    url: https://jusangkim.com/cv
+    desc: CV in English 
 
 old_project_entries:
   - title: Academic article
